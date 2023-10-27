@@ -12,6 +12,11 @@ Registro de Estudiantes: Registra información detallada de los estudiantes, inc
 
 Link del video: https://www.loom.com/share/421a28461d0948c7a7956ffeaca3c469?sid=9a6691a4-468d-42e1-b8ec-a5359f016b97
 
+Link de página desplegada: https://pagina-vue-2.onrender.com/
+
+## Diseño
+
+![image](https://github.com/AndresMoreta20/Deploy-aplicacion-vue/assets/61909582/b9aac57d-5882-46dc-bc0b-414f0d4ac2ab)
 
 
 ## Project setup
